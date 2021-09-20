@@ -14,4 +14,5 @@ git branch test           git checkout test
  6. --
  7. проблема виникла тому що   в вітці меін і тест була різна інформація на одинакових рядках 
  8. --
- 9. Sync with a command git pull , any changes because I dont sync wed git with my local git
+ 9. Sync with a command git pull , any changes because I don`t sync wed git with my local git
+10.
