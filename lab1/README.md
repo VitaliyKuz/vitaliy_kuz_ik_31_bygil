@@ -11,3 +11,5 @@
 git branch test           git checkout test
 ```
  5. Any changes in "main" branch because I change it on "test" branch
+ 6. --
+ 7. проблема виникла тому що   в вітці меін і тест і була різна інформація на одинакових рядках
