@@ -2,14 +2,10 @@
 
 ---
 3i
-
----
 We are in the __main__
 2021-10-04 17:15:01.276783 linux test Command python3 . вивела результат файлу __main__.py
 ---
 3ii
-
----
 a.python3 - h надає корисні довідки  
 usage: . [-h] [-o OPT] [-l]
 Приклад передачі аргументів у Python програму. optional arguments:
