@@ -13,14 +13,14 @@ install:
 
 test:
 	@echo "Start tests."
-	pipenv run pytest tests/tests.py > results.txt
+	pipenv run pytest tests/tests.py > result.txt
 
 run:
 	@echo "Running Python app."
-	pipenv run python app.py >> results.txt
+	pipenv run python app.py >> result.txt
 
 deploy:
-	@echo "Adding and Committing results.txt to git."
+	@echo "Adding and Committing result.txt to git."
 	git add result.txt
 	git commit -m "lab2 auto"
 	git push
