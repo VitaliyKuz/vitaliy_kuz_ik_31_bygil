@@ -1,0 +1,44 @@
+INFO 2021-11-14 20:51:40,040 root : Сервер доступний. Час на сервері: 2021-11-14T18:51:40.033
+INFO 2021-11-14 20:51:40,041 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-14 20:51:40,041 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-14 20:51:40,042 root : Ключ: date, Значення: 2021-11-14T18:51:40.033
+INFO 2021-11-14 20:51:40,042 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-14 20:51:40,042 root : Ключ: server_info, Значення: ['Linux', 'vitaliy-VirtualBox', '5.11.0-40-generic', '#44~20.04.2-Ubuntu SMP Tue Oct 26 18:07:44 UTC 2021', 'x86_64']
+INFO 2021-11-14 20:51:40,042 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2021-11-14 20:59:13,732 root : Сервер доступний. Час на сервері: 2021-11-14T18:59:13.731
+INFO 2021-11-14 20:59:13,732 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-14 20:59:13,732 root : Відповідь сервера містить наступні поля:
+INFO 2021-11-14 20:59:13,732 root : Ключ: date, Значення: 2021-11-14T18:59:13.731
+INFO 2021-11-14 20:59:13,732 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-14 20:59:13,732 root : Ключ: server_info, Значення: ['Linux', 'vitaliy-VirtualBox', '5.11.0-40-generic', '#44~20.04.2-Ubuntu SMP Tue Oct 26 18:07:44 UTC 2021', 'x86_64']
+INFO 2021-11-14 20:59:13,732 root : Ключ: client_info, Значення: python-requests/2.22.0
+ERROR 2021-11-14 20:59:20,512 root : Сайт не доступний!
+ERROR 2021-11-14 21:11:44,393 root : Run server
+ERROR 2021-11-14 21:12:02,980 root : Run server
+ERROR 2021-11-14 21:13:03,048 root : Run server
+ERROR 2021-11-14 21:14:03,109 root : Run server
+ERROR 2021-11-14 21:15:03,170 root : Run server
+ERROR 2021-11-14 21:16:03,233 root : Run server
+ERROR 2021-11-14 21:17:03,294 root : Run server
+ERROR 2021-11-14 21:18:03,356 root : Run server
+ERROR 2021-11-14 21:19:03,413 root : Run server
+ERROR 2021-11-14 21:20:03,475 root : Run server
+ERROR 2021-11-14 21:21:03,537 root : Run server
+ERROR 2021-11-14 21:22:03,598 root : Run server
+ERROR 2021-11-14 21:23:03,660 root : Run server
+ERROR 2021-11-14 21:24:03,720 root : Run server
+ERROR 2021-11-14 21:25:03,780 root : Run server
+ERROR 2021-11-14 21:26:03,840 root : Run server
+ERROR 2021-11-14 21:27:03,899 root : Run server
+ERROR 2021-11-14 21:28:03,960 root : Run server
+ERROR 2021-11-14 21:29:04,013 root : Run server
+ERROR 2021-11-14 21:30:04,072 root : Run server
+ERROR 2021-11-14 21:31:04,135 root : Run server
+ERROR 2021-11-14 21:32:04,196 root : Run server
+ERROR 2021-11-14 21:33:04,256 root : Run server
+ERROR 2021-11-14 21:34:04,317 root : Run server
+ERROR 2021-11-14 21:35:04,377 root : Run server
+ERROR 2021-11-14 21:36:04,437 root : Run server
+ERROR 2021-11-14 21:37:04,498 root : Run server
+ERROR 2021-11-14 21:38:04,559 root : Run server
+ERROR 2021-11-14 21:39:04,621 root : Run server

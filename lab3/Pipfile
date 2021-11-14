@@ -5,8 +5,15 @@ name = "pypi"
 
 [packages]
 django = "*"
+requests = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.9"
+
+
+[scripts]
+server = "python manage.py runserver 127.0.0.1:8000"
+monitoring = "python3 monitoring.py"
+
