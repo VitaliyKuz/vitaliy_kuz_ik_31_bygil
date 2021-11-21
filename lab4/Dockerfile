@@ -1,6 +1,6 @@
 FROM python:3.8-slim-buster
 
-LABEL author="Bohdan"
+LABEL author="Vitaliy"
 LABEL version=1.0
 
 # оновлюємо систему
