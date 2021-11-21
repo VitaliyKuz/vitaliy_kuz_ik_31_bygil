@@ -13,7 +13,7 @@ RUN apt-get install git -y && pip install pipenv
 WORKDIR /lab
 
 # Завантажуємо файли з Git
-RUN git clone https://github.com/VitaliyKuz/vitaliy_kuz_ik_31_bygil
+RUN git clone https://github.com/VitaliyKuz/vitaliy_kuz_ik_31_bygil/tree/main/lab3
 
 # Створюємо остаточну робочу папку з Веб-сайтом та копіюємо туди файли
 WORKDIR /app
