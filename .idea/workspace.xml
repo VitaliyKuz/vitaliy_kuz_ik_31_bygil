@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbb6cb51-01f3-403a-bf42-803bdf178409" name="Changes" comment="lab3 10task">
-      <change afterPath="$PROJECT_DIR$/lab3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/monitoring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/server.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/Pipfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/kuz_main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/kuz_main/views.py" afterDir="false" />
+    <list default="true" id="cbb6cb51-01f3-403a-bf42-803bdf178409" name="Changes" comment="lab4 2 tasl commit">
+      <change afterPath="$PROJECT_DIR$/lab4/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +33,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NOTmyrepository" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
@@ -93,7 +87,28 @@
       <option name="project" value="LOCAL" />
       <updated>1636751461675</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lab3 фінальний коміт">
+      <created>1636918747997</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636918747997</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lab3 фінальний коміт">
+      <created>1636918753643</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636918753643</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lab4 2 tasl commit">
+      <created>1637527574335</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637527574335</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +128,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="lab3 5task" />
     <MESSAGE value="lab3 10task" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab3 10task" />
+    <MESSAGE value="lab3 фінальний коміт" />
+    <MESSAGE value="lab4 2 tasl commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab4 2 tasl commit" />
   </component>
 </project>
