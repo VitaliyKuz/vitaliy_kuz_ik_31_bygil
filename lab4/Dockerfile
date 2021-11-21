@@ -17,7 +17,7 @@ RUN git clone https://github.com/VitaliyKuz/vitaliy_kuz_ik_31_bygil
 
 # Створюємо остаточну робочу папку з Веб-сайтом та копіюємо туди файли
 WORKDIR /app
-RUN cp -r /lab/devops_course/lab3/* .
+RUN cp -r /bygil/vitaliy_kuz_ik_31_bygil/lab3/* .
 
 # Інсталюємо всі залежності
 RUN pipenv install
