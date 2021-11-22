@@ -1,10 +1,11 @@
-FROM python:3.8-slim-buster
+FROM python:3.9-slim-buster
 
 LABEL author="Vitaliy"
 LABEL version=1.0
 
 # оновлюємо систему
 RUN apt-get update && apt-get upgrade -y
+
 
 # Встановлюємо потрібні пакети
 RUN apt-get install git -y && pip install pipenv
@@ -17,7 +18,7 @@ RUN git clone https://github.com/VitaliyKuz/vitaliy_kuz_ik_31_bygil
 
 # Створюємо остаточну робочу папку з Веб-сайтом та копіюємо туди файли
 WORKDIR /app
-RUN cp -r /bygil/vitaliy_kuz_ik_31_bygil/lab3/* .
+RUN cp -r /lab/vitaliy_kuz_ik_31_bygil/lab3/* .
 
 # Інсталюємо всі залежності
 RUN pipenv install
