@@ -6,7 +6,6 @@ LABEL version=1.0
 # оновлюємо систему
 RUN apt-get update && apt-get upgrade -y
 
-
 # Встановлюємо потрібні пакети
 RUN apt-get install git -y && pip install pipenv
 

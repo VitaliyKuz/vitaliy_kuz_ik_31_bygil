@@ -1,0 +1,20 @@
+INFO 2021-11-23 09:25:47,277 root : Сервер доступний. Час на сервері: 2021-11-23T09:25:47.276
+INFO 2021-11-23 09:25:47,278 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-23 09:25:47,278 root : Відповідь сервера містить наступні поля:
+INFO 2021-11-23 09:25:47,278 root : Ключ: date, Значення: 2021-11-23T09:25:47.276
+INFO 2021-11-23 09:25:47,278 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-23 09:25:47,278 root : Ключ: server_info, Значення: ['Linux', 'b189def33246', '5.11.0-40-generic', '#44~20.04.2-Ubuntu SMP Tue Oct 26 18:07:44 UTC 2021', 'x86_64']
+INFO 2021-11-23 09:25:47,278 root : Ключ: client_info, Значення: python-requests/2.26.0
+INFO 2021-11-23 09:26:47,332 root : Сервер доступний. Час на сервері: 2021-11-23T09:26:47.331
+INFO 2021-11-23 09:26:47,332 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-23 09:26:47,333 root : Відповідь сервера містить наступні поля:
+INFO 2021-11-23 09:26:47,333 root : Ключ: date, Значення: 2021-11-23T09:26:47.331
+INFO 2021-11-23 09:26:47,333 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-23 09:26:47,333 root : Ключ: server_info, Значення: ['Linux', 'b189def33246', '5.11.0-40-generic', '#44~20.04.2-Ubuntu SMP Tue Oct 26 18:07:44 UTC 2021', 'x86_64']
+INFO 2021-11-23 09:26:47,333 root : Ключ: client_info, Значення: python-requests/2.26.0
+ERROR 2021-11-23 09:27:47,395 root : Please run server
+ERROR 2021-11-23 09:28:47,455 root : Please run server
+ERROR 2021-11-23 09:29:47,515 root : Please run server
+ERROR 2021-11-23 09:30:47,574 root : Please run server
+ERROR 2021-11-23 09:31:47,636 root : Please run server
+ERROR 2021-11-23 09:32:47,694 root : Please run server
