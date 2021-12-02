@@ -1,0 +1,25 @@
+version: '3.7'
+services:
+  site:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: vitaliykuz/lab5_bobas:site
+    container_name: site
+    networks:
+      - public
+    ports:
+      - 8000:8000
+  monitoring:
+    build:
+      context: .
+      dockerfile: Dockerfile.monitoring
+    image: vitaliykuz/lab5_bobas:monitoring
+    container_name: monitoring
+    depends_on:
+      - site
+    network_mode: host
+
+networks:
+  public:
+    driver: bridge
