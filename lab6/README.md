@@ -9,5 +9,5 @@
     - переписав білд _lab 2_ з використання кроків записаних у Makefile;
     - переписав білд _lab 4_ де Ви створювали ще один DockerFile для контейнера моніторингу;
     - переписав білд _lab 5_ і додав кроки Makefile які робили push імеджів у Docker Hub репозиторій;
-    - вкажіть посилання на Ваш Travis білд у README.md;
+    - вкажіть посилання на Ваш Travis білд у README.md [Travis](https://app.travis-ci.com/github/VitaliyKuz/vitaliy_kuz_ik_31_bygil)
 6. Після успішного виконання роботи відредагуйте Ваш персональний _README.md_ у цьому репозиторію та створіть pull request.
