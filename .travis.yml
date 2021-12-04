@@ -21,7 +21,7 @@ jobs:
       install:
         - cd ./lab4/
       script:
-        -- docker build -t vitaliykuz/lab4_bobas:django-travis-monitoring -f Dockerfile.monitoring .
+        - docker build -t vitaliykuz/lab4_bobas:django-travis-monitoring -f Dockerfile.monitoring .
         - docker images
         - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin; vitaliykuz/lab4_bobas:django-travis-monitoring; else echo "PR skip deploy"; fi
         - docker build -t vitaliykuz/lab4_bobas:django-travis -f Dockerfile .
@@ -39,7 +39,7 @@ jobs:
         - make run
         - make test-app
         - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin; fi
-        -make push
+        - make push
 branches:
   only:
     - main
