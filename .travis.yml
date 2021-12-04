@@ -11,8 +11,6 @@ jobs:
       install:
         - cd ./lab2/
         - make install
-        - make run
-        - make deploy
       script: make test || true
     - stage: "Build Lab 4."
       name: "Build Docker images & Home task"
